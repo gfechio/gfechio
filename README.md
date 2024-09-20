@@ -5,7 +5,9 @@
 - ⚡ Fun fact: I'm a coffee enthusiast who loves exploring new brewing methods
 
 
-### Languages and Tools:
+### Development Skills:
 
 [![Development Skills](https://skillicons.dev/icons?i=python,golang,ruby,fastapi,flask)](https://skillicons.dev)
+
+### System Skills:
 [![System Skills](https://skillicons.dev/icons?i=arduino,bash,terraform,aws,azure,debian,elasticsearch,linux,nginx,openstack,prometheus,redis)](https://skillicons.dev)
